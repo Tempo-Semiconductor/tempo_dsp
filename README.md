@@ -10,6 +10,12 @@ audio EQ biquad filter coefficients* by Robert Bristow-Johnson.
 
 Currently only biquad filters are supported. Other effects will be added soon.
 
+## Build and Install
+
+### Prerequisites
+
+`$ sudo apt-get install libpython3-dev python3-distutils`
+
 ### Build and Install C++ Library:
 
     $ mkdir build
