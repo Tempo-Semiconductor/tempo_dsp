@@ -1,5 +1,5 @@
 
-![Tempo Logo](https://github.com/Tempo-Semiconductor/tempo_dsp/blob/master/res/tempo.png)
+![Tempo Logo](https://github.com/Tempo-Semiconductor/tempo_res/blob/master/tempo.png)
 
 # Tempo DSP
 
