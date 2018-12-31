@@ -16,7 +16,7 @@ Currently only biquad filters are supported. Other effects will be added soon.
 
 `$ sudo apt-get install libpython3-dev python3-distutils`
 
-### Build and Install C++ Library:
+### C++ Library:
 
     $ mkdir build
     $ cd build
@@ -25,7 +25,7 @@ Currently only biquad filters are supported. Other effects will be added soon.
     $ sudo make install
     $ sudo ldconfig
 
-### Build and Install Python Module (Requires C++ Lib):
+### Python Module (Requires C++ Lib):
 
     $ cd python_src/module_tempo_dsp
     $ python3 setup.py build
